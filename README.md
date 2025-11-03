@@ -1,4 +1,5 @@
 Bonjour,
+
 Actuellement en 3e année à SUPINFO, je suis à la recherche d’une alternance en informatique à compter de janvier 2026 jusqu’en août 2028. Le rythme est de trois jours en entreprise et deux jours à l’école les six premiers mois, puis d’une semaine sur deux ensuite. 
 
 Compétences :
