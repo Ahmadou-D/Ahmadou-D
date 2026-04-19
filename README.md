@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Ahmadou !
 
-### 👨‍💻 Futu(e)r Expert en Systèmes, Réseaux et Cybersécurité
+### 
 Passionné par l'infrastructure, l'automatisation et la sécurisation des systèmes, je développe des solutions robustes allant de l'orchestration de conteneurs à l'administration de parcs multi-sites complexes.
 
 ---
