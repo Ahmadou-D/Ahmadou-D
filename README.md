@@ -19,7 +19,7 @@ Passionné par l'infrastructure, l'automatisation et la sécurisation des systè
 
 ### 🚀 Mes Projets
 
-#### 🏗️ DevOps & Infrastructure
+#### 🏗️ Système, Réseau et DevOps
 * **[Dockerization et Orchestration](https://github.com/Ahmadou-D/Projet-Dockerization-et-Orchestration)** : Conteneurisation d'une application distribuée et déploiement en cluster haute disponibilité (Docker Swarm).
 * **[Déploiement GLPI Sécurisé](https://github.com/Ahmadou-D/Deploiement-GLPI)** : Mise en place d'un helpdesk sur Windows Server (IIS) avec SSL, LDAP et automatisation d'alertes via PowerShell.
 * **[Windows Server - Pasta Scaduta](https://github.com/Ahmadou-D/Projet-windows-pasta-scaduta)** : Administration d'une forêt AD multi-sites (France, Pologne, Chine en RODC) avec réplication DFS et VPN site-à-site.
@@ -38,8 +38,8 @@ Passionné par l'infrastructure, l'automatisation et la sécurisation des systè
 ---
 
 ### 📫 Me contacter
-* **LinkedIn** : [Ton lien LinkedIn ici]
-* **Portfolio** : [Lien vers ton site web si disponible]
+* **LinkedIn** : [https://www.linkedin.com/in/ahmadou-diallo13/]
+* 06 52 23 13 92
+* ahmadou.diallo13@outlook.fr
 
----
-*« La sécurité n'est pas un produit, c'est un processus. »*
+
